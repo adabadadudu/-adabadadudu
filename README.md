@@ -2,7 +2,7 @@
 
 <!--
 **PooiaFerdowsi/PooiaFerdowsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Pashmak
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... send Email : pooia.ferdowsi.is.developer@gmail.com 
 - 😄 Pronouns: ... I don't have
 - ⚡ Fun fact: ...
--->

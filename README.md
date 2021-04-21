@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Pashmak
-- 🌱 I’m currently learning ... Kivy , C
+- 🌱 I’m currently learning ... C
 - 👯 I’m looking to collaborate on ... a Tech company better in google
 - 🤔 I’m looking for help with ... Pashmak
 - 💬 Ask me about ... Anything I can answer

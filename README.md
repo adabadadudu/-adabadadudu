@@ -13,3 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... send Email : pooia.ferdowsi.is.developer@gmail.com 
 - 😄 Pronouns: ... I don't have
 - ⚡ Fun fact: ...
+
+My languages
+C
+Py
+Lua
+Js
+Cpp
+Java

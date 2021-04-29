@@ -22,5 +22,4 @@ Js
 Cpp
 Java
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PooiaFerdowsi)](https://github.com/anuraghazra/github-readme-stats)
+![supercipGithub_stat](https://github-readme-stats.vercel.app/api?username=PooiaFerdowsi&show_icons=true)

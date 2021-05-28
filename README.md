@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... [Pandex](https://github.com/Pandex-lang/Pandex)
 - 🌱 I’m currently learning ... C ,lua & very other things
-- 👯 I’m looking to collaborate on ... a Tech company better in google
+- 👯 I’m looking to collaborate on ... `node.js` or `CPython` and others
 - 🤔 I’m looking for help with ... Pandex
 - 💬 Ask me about ... Anything I can answer
 - 📫 How to reach me: ... send Email : pooia.ferdowsi.is.developer@gmail.com 
 - 😄 Pronouns: ... I don't have
 - ⚡ Fun fact: ... out of this range
 - 
-![supercipGithub_stat](https://github-readme-stats.vercel.app/api?username=PooiaFerdowsi&show_icons=true)
+![Github_stat](https://github-readme-stats.vercel.app/api?username=PooiaFerdowsi&show_icons=true)
